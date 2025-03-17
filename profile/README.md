@@ -69,6 +69,8 @@
 ## 👩‍💻 <span id="04"> 04-开源AI类项目</span>
 
 ## 👋 <span id="05"> 05-学术研究类项目</span>
+### 05-01 **PDP_Selection**: [https://github.com/OS-HUBU/GitHubLocationView](https://github.com/OS-HUBU/public_development_project_selection)
+> 公开开发项目选取（IET论文模型及数据）
 
 ## :clipboard: <span id="06"> 06-开源课程</span>
 
