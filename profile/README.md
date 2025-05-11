@@ -51,6 +51,10 @@
 
 > 开发者在项目中的重要性评价指标
 
+### 02-04 **OpenTalent**: https://github.com/OS-HUBU/open-talent
+
+> 开源人才评价与服务平台
+
 
 ## 🌈 <span id="03">03-开源可视化类项目</span>
 
